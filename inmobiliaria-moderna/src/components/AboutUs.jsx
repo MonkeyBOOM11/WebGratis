@@ -307,7 +307,7 @@ const AboutUs = () => {
             <div className="text-center mb-16">
               <h2 className="text-4xl font-bold mb-4">Nuestros Clientes Valorados</h2>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-                En Estatein, hemos tenido el privilegio de trabajar con una amplia gama de clientes en diversos sectores. Aquí hay algunos de los clientes valorados que hemos tenido el honor de servir.
+                En Ilamarca, hemos tenido el privilegio de trabajar con una amplia gama de clientes en diversos sectores. Aquí hay algunos de los clientes valorados que hemos tenido el honor de servir.
               </p>
             </div>
 
