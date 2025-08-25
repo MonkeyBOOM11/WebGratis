@@ -241,9 +241,9 @@ const AboutUs = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-4xl font-bold mb-4">Navegando la Experiencia Estatein</h2>
+              <h2 className="text-4xl font-bold mb-4">Navegando la Experiencia Ilamarca</h2>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-                En Estatein, hemos diseñado un proceso paso a paso para ayudarte a encontrar y asegurar la propiedad de tus sueños.
+                En Ilamarca, hemos diseñado un proceso paso a paso para ayudarte a encontrar y asegurar la propiedad de tus sueños.
               </p>
             </div>
 
@@ -272,9 +272,9 @@ const AboutUs = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <AnimatedSection>
             <div className="text-center mb-16">
-              <h2 className="text-4xl font-bold mb-4">Conoce al Equipo Estatein</h2>
+              <h2 className="text-4xl font-bold mb-4">Conoce al Equipo Ilamarca</h2>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-                En Estatein, nuestro éxito se basa en el talento excepcional y la dedicación de nuestro equipo. Conoce a las personas que hacen posible que tus sueños inmobiliarios se hagan realidad.
+                En Ilamarca, nuestro éxito se basa en el talento excepcional y la dedicación de nuestro equipo. Conoce a las personas que hacen posible que tus sueños inmobiliarios se hagan realidad.
               </p>
             </div>
 
