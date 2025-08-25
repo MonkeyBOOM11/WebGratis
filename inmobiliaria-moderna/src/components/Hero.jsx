@@ -55,7 +55,7 @@ const Hero = () => {
                 >
                   Descubre Tu{' '}
                   <span className="gradient-text">Propiedad</span>{' '}
-                  de Ensueño con Estatein
+                  de Ensueño con Ilamarca
                 </motion.h1>
                 <motion.p 
                   className="text-xl text-gray-300 leading-relaxed"
