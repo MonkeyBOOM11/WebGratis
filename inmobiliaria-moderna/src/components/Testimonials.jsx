@@ -20,7 +20,7 @@ const Testimonials = () => {
       name: 'Emelie Thomson',
       role: 'Directora de Marketing',
       rating: 5,
-      text: 'Eficiente y confiable. Estatein proporcionó un servicio de primera clase que hizo que nuestro proceso de compra fuera fluido y sin estrés.',
+      text: 'Eficiente y confiable. Ilamarca proporcionó un servicio de primera clase que hizo que nuestro proceso de compra fuera fluido y sin estrés.',
       avatar: '👩‍💼',
     },
     {
