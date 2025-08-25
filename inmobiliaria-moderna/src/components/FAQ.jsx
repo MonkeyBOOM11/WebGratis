@@ -7,15 +7,15 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: '¿Cómo busco propiedades en Estatein?',
-      answer: 'Buscar propiedades en Estatein es fácil. Utiliza nuestra función de búsqueda avanzada en la página principal para filtrar por ubicación, tipo de propiedad, rango de precios y más. También puedes explorar nuestras propiedades destacadas o contactar a nuestros agentes para asistencia personalizada.',
+      question: '¿Cómo busco propiedades en Ilamarca?',
+      answer: 'Buscar propiedades en Ilamarca es fácil. Utiliza nuestra función de búsqueda avanzada en la página principal para filtrar por ubicación, tipo de propiedad, rango de precios y más. También puedes explorar nuestras propiedades destacadas o contactar a nuestros agentes para asistencia personalizada.',
     },
     {
-      question: '¿Qué documentos necesito para vender mi propiedad a través de Estatein?',
+      question: '¿Qué documentos necesito para vender mi propiedad a través de Ilamarca?',
       answer: 'Para vender tu propiedad necesitarás: escritura de la propiedad, identificación oficial, comprobantes de pago de servicios e impuestos al día, planos arquitectónicos (si están disponibles), y cualquier documentación de mejoras realizadas. Nuestro equipo te guiará a través de todo el proceso.',
     },
     {
-      question: '¿Cómo puedo contactar a un agente de Estatein?',
+      question: '¿Cómo puedo contactar a un agente de Ilamarca?',
       answer: 'Puedes contactar a nuestros agentes de varias maneras: a través del formulario de contacto en nuestro sitio web, llamando a nuestra línea directa, enviando un email, o visitando nuestras oficinas. También ofrecemos chat en vivo durante horarios de oficina para consultas inmediatas.',
     },
     {
